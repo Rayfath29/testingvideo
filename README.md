@@ -1,2 +1,3 @@
-# testingvideo
-Just for testing..
+# Testing Video
+Testing repository for a Video
+Only for testing....
